@@ -1,4 +1,9 @@
-### Hi there 👋
+## 👋 Привет, меня зовут Андрей Самоленков 
+
+### Мои сертификаты:
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+ <a href=https://www.coursera.org/account/accomplishments/specialization/certificate/SU9AQ6VPKEJU>Google Advanced Data
+Analytics</a>
 
 <!--
 **AndreySamolenkov/AndreySamolenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
